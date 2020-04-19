@@ -1,4 +1,4 @@
 # VeryVerySimpleGUI
-A very simple gui (finxed lables and variable text) renderer using C, freetype and opnegl 4.5
+A very simple gui (fixed lables and variable text) renderer using C, freetype2 and opengl 4.5
 
 License: WTFPL
